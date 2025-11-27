@@ -1,0 +1,18 @@
+# Habilitar rewrite engine (si usas Apache)
+RewriteEngine On
+
+# Redirigir a index.php si el archivo no existe
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php [QSA,L]
+
+# Permitir acceso a archivos estáticos
+<FilesMatch "\.(css|js|png|jpg|jpeg|gif|ico|svg|woff|woff2|ttf|eot)$">
+    Order allow,deny
+    Allow from all
+</FilesMatch>
+
+# Configuración PHP
+php_flag display_errors On
+php_value error_reporting E_ALL
+

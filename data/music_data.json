@@ -1,0 +1,133 @@
+{
+    "artists": [
+        {
+            "id": 1,
+            "name": "los monos",
+            "image": "https:\/\/tse2.mm.bing.net\/th\/id\/OIP.83EknBIpPH8V_WMpYx8xTAHaHa?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+            "liked": true
+        },
+        {
+            "id": 2,
+            "name": "deftones",
+            "image": "https:\/\/tse4.mm.bing.net\/th\/id\/OIP.HE7xU8f4-VEhgsddwn7PygHaHa?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+            "liked": true
+        },
+        {
+            "id": 3,
+            "name": "DPR IAN",
+            "image": "https:\/\/tse4.mm.bing.net\/th\/id\/OIP.w33UWH_42Gf3LgXu2OadLAHaHa?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+            "liked": true
+        },
+        {
+            "id": 4,
+            "name": "the beatles",
+            "image": "https:\/\/tse3.mm.bing.net\/th\/id\/OIP.ZV-JlFcgXyPZrLrkB53-wAHaHa?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+            "liked": true
+        },
+        {
+            "id": 5,
+            "name": "Jose jose",
+            "image": "https:\/\/tse1.mm.bing.net\/th\/id\/OIP.nQf6qsKm6HjfGT4RDjGqSQHaHa?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+            "liked": true
+        },
+        {
+            "id": 6,
+            "name": "the smiths",
+            "image": "https:\/\/m.media-amazon.com\/images\/I\/81vbza7MDcL._SL1500_.jpg",
+            "liked": true
+        },
+        {
+            "id": 7,
+            "name": "Enjambre",
+            "image": "https:\/\/tse4.mm.bing.net\/th\/id\/OIP.4r3uy_xm4kfwmleFpqUSnQHaHW?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+            "liked": true
+        },
+        {
+            "id": 8,
+            "name": "Caifanes",
+            "image": "https:\/\/tse4.mm.bing.net\/th\/id\/OIP.4r3uy_xm4kfwmleFpqUSnQHaHW?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+            "liked": true
+        },
+        {
+            "id": 9,
+            "name": "Gorillaz",
+            "image": "https:\/\/tse4.mm.bing.net\/th\/id\/OIP.4r3uy_xm4kfwmleFpqUSnQHaHW?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+            "liked": true
+        },
+        {
+            "id": 10,
+            "name": "Miranda!",
+            "image": "https:\/\/tse4.mm.bing.net\/th\/id\/OIP.4r3uy_xm4kfwmleFpqUSnQHaHW?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+            "liked": true
+        },
+        {
+            "id": 11,
+            "name": "Soda Stereo",
+            "image": "https:\/\/tse4.mm.bing.net\/th\/id\/OIP.4r3uy_xm4kfwmleFpqUSnQHaHW?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+            "liked": true
+        },
+        {
+            "id": 12,
+            "name": "Gustavo Cerati",
+            "image": "https:\/\/tse4.mm.bing.net\/th\/id\/OIP.4r3uy_xm4kfwmleFpqUSnQHaHW?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+            "liked": true
+        },
+        {
+            "id": 13,
+            "name": "Zoé",
+            "image": "https:\/\/tse4.mm.bing.net\/th\/id\/OIP.4r3uy_xm4kfwmleFpqUSnQHaHW?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+            "liked": true
+        }
+    ],
+    "albums": [
+        {
+            "id": 1,
+            "name": "Enjambre",
+            "image": "https:\/\/tse4.mm.bing.net\/th\/id\/OIP.4r3uy_xm4kfwmleFpqUSnQHaHW?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+            "artist": "Enjambre",
+            "year": 2020
+        },
+        {
+            "id": 2,
+            "name": "Thriller",
+            "image": "https:\/\/draw.acharts.net\/cover\/16243-54d003bfc4ff0-l.jpg",
+            "artist": "michael jackson",
+            "year": 1982
+        },
+        {
+            "id": 3,
+            "name": "When We All Fall Asleep",
+            "image": "https:\/\/tse3.mm.bing.net\/th\/id\/OIP.gaT4dhgwKnYkElOaJJ7AmwHaHa?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+            "artist": "billie eilish",
+            "year": 2019
+        },
+        {
+            "id": 4,
+            "name": "Nevermind",
+            "image": "https:\/\/tse2.mm.bing.net\/th\/id\/OIP.PjmxeF8oZcUbmp2X7LA47gHaHb?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+            "artist": "Nirvana",
+            "year": 1991
+        }
+    ],
+    "songs": [
+        {
+            "id": 1,
+            "title": "Canción de Ejemplo",
+            "artist": "Artista Ejemplo",
+            "album": "Álbum Ejemplo",
+            "duration": 180,
+            "image": "https:\/\/th.bing.com\/th\/id\/R.e77f4b7034748db1a835d74daad07a4d?rik=t1D4FLdLs3viLg&pid=ImgRaw&r=0",
+            "url": ""
+        }
+    ],
+    "currentTrack": {
+        "id": 1,
+        "title": "Canción de Ejemplo",
+        "artist": "Artista Ejemplo",
+        "image": "https:\/\/th.bing.com\/th\/id\/R.e77f4b7034748db1a835d74daad07a4d?rik=t1D4FLdLs3viLg&pid=ImgRaw&r=0",
+        "isPlaying": false,
+        "progress": 0,
+        "duration": 180,
+        "volume": 50
+    }
+}
